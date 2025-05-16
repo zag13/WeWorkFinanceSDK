@@ -1,5 +1,5 @@
 # WeWork Finance SDK Go Wrapper
-
+ 
 Written by cursor, Assisted by zag13.
 
 This is a Go wrapper for the WeWork Finance SDK, which allows you to access WeWork chat records and media files.
