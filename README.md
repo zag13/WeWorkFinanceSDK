@@ -97,16 +97,6 @@ docker build --build-arg TARGETPLATFORM=linux/amd64 -t wework-finance-sdk .
 docker run -it wework-finance-sdk
 ```
 
-## Running Tests
-
-```bash
-# Run tests locally
-go test -v ./...
-
-# Run tests in Docker
-docker run -it wework-finance-sdk
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
